@@ -25,7 +25,7 @@ body {
     flex: 1;    /* les seccions ocupen tot l'espai disponible */
     display: none;    /* les seccions s'inicien ocultes, excepte la primera */
 }
-#seccio_0 {
+#seccio_1 {
     display: flex;
     flex-direction: column;
     justify-content: center;
